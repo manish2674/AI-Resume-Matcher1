@@ -1,0 +1,6 @@
+pymupdf
+python-docx
+spacy
+sentence-transformers
+scikit-learn
+streamlit

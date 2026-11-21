@@ -1,0 +1,629 @@
+{
+    "job_description": {
+        "job_description": "Job Title: Machine Learning Engineer\n\nRequired Skills:\nPython, Machine Learning, Pandas, NumPy, Scikit-learn, SQL\n\nPreferred Skills:\nTensorFlow, PyTorch, Docker, AWS\n\nExperience:\nMinimum 2 years of experience in Machine Learning.\n\nEducation:\nB.Tech in Computer Science or related field.\n\nResponsibilities:\nDevelop machine learning models, perform data analysis,\nbuild predictive systems, and work with AI technologies.",
+        "required_skills": {
+            "programming_languages": [
+                "Python"
+            ],
+            "machine_learning": [
+                "Machine Learning"
+            ],
+            "data_science": [
+                "Pandas",
+                "NumPy",
+                "Scikit-learn"
+            ],
+            "databases": [
+                "SQL"
+            ]
+        },
+        "preferred_skills": {
+            "data_science": [
+                "TensorFlow",
+                "PyTorch"
+            ],
+            "tools": [
+                "Docker",
+                "AWS"
+            ]
+        },
+        "all_skills": {
+            "machine_learning": [
+                "Machine Learning"
+            ],
+            "programming_languages": [
+                "Python"
+            ],
+            "data_science": [
+                "Pandas",
+                "NumPy",
+                "Scikit-learn",
+                "TensorFlow",
+                "PyTorch"
+            ],
+            "databases": [
+                "SQL"
+            ],
+            "tools": [
+                "Docker",
+                "AWS"
+            ]
+        },
+        "minimum_experience_years": 2.0,
+        "qualifications": [
+            "B.Tech"
+        ]
+    },
+    "total_resumes": 10,
+    "successfully_processed": 10,
+    "failed_resumes": 0,
+    "ranked_candidates": [
+        {
+            "candidate_name": "Aarav Mehta",
+            "email": "aarav@example.com",
+            "phone": null,
+            "final_score": 94.77,
+            "component_scores": {
+                "skills": 100.0,
+                "semantic": 82.57,
+                "experience": 100,
+                "qualification": 100
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "Machine Learning",
+                    "Pandas",
+                    "NumPy",
+                    "Scikit-learn",
+                    "SQL"
+                ],
+                "missing_required": [],
+                "matched_preferred": [
+                    "TensorFlow",
+                    "PyTorch",
+                    "Docker",
+                    "AWS"
+                ],
+                "missing_preferred": []
+            },
+            "experience": {
+                "candidate_years": 4.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [
+                    "B.Tech"
+                ],
+                "score": 100,
+                "detected_qualifications": [
+                    "B.Tech"
+                ],
+                "match_reason": "Exact qualification and relevant field matched.",
+                "status": "Required qualification matched."
+            },
+            "reasons": [
+                "All required skills were found in the resume.",
+                "Matched 4 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Exact qualification and relevant field matched.",
+                "Required qualification matched.",
+                "Semantic similarity score: 82.57%."
+            ],
+            "filename": "candidate_01.docx",
+            "rank": 1
+        },
+        {
+            "candidate_name": "Meera Kapoor",
+            "email": "meera@example.com",
+            "phone": null,
+            "final_score": 90.42,
+            "component_scores": {
+                "skills": 100.0,
+                "semantic": 68.08,
+                "experience": 100,
+                "qualification": 100
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "Machine Learning",
+                    "Pandas",
+                    "NumPy",
+                    "Scikit-learn",
+                    "SQL"
+                ],
+                "missing_required": [],
+                "matched_preferred": [
+                    "TensorFlow",
+                    "PyTorch",
+                    "Docker",
+                    "AWS"
+                ],
+                "missing_preferred": []
+            },
+            "experience": {
+                "candidate_years": 6.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [
+                    "M.Tech (related qualification)"
+                ],
+                "score": 100,
+                "detected_qualifications": [
+                    "M.Tech"
+                ],
+                "match_reason": "Recognized qualification in a related technical field.",
+                "status": "Required qualification matched."
+            },
+            "reasons": [
+                "All required skills were found in the resume.",
+                "Matched 4 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Recognized qualification in a related technical field.",
+                "Required qualification matched.",
+                "Semantic similarity score: 68.08%."
+            ],
+            "filename": "candidate_08.docx",
+            "rank": 2
+        },
+        {
+            "candidate_name": "Kabir Shah",
+            "email": "kabir@example.com",
+            "phone": null,
+            "final_score": 71.59,
+            "component_scores": {
+                "skills": 58.33,
+                "semantic": 60.87,
+                "experience": 100,
+                "qualification": 100
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "Machine Learning",
+                    "Scikit-learn",
+                    "SQL"
+                ],
+                "missing_required": [
+                    "Pandas",
+                    "NumPy"
+                ],
+                "matched_preferred": [
+                    "PyTorch"
+                ],
+                "missing_preferred": [
+                    "TensorFlow",
+                    "Docker",
+                    "AWS"
+                ]
+            },
+            "experience": {
+                "candidate_years": 3.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [
+                    "B.Tech"
+                ],
+                "score": 100,
+                "detected_qualifications": [
+                    "B.Tech"
+                ],
+                "match_reason": "Exact qualification and relevant field matched.",
+                "status": "Required qualification matched."
+            },
+            "reasons": [
+                "Missing 2 required skill(s).",
+                "Matched 1 preferred skill(s).",
+                "Missing 3 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Exact qualification and relevant field matched.",
+                "Required qualification matched.",
+                "Semantic similarity score: 60.87%."
+            ],
+            "filename": "candidate_05.docx",
+            "rank": 3
+        },
+        {
+            "candidate_name": "Ananya Sharma",
+            "email": "ananya@example.com",
+            "phone": null,
+            "final_score": 71.23,
+            "component_scores": {
+                "skills": 53.33,
+                "semantic": 66.33,
+                "experience": 100,
+                "qualification": 100
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "Pandas",
+                    "NumPy",
+                    "SQL"
+                ],
+                "missing_required": [
+                    "Machine Learning",
+                    "Scikit-learn"
+                ],
+                "matched_preferred": [],
+                "missing_preferred": [
+                    "TensorFlow",
+                    "PyTorch",
+                    "Docker",
+                    "AWS"
+                ]
+            },
+            "experience": {
+                "candidate_years": 3.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [
+                    "B.Tech"
+                ],
+                "score": 100,
+                "detected_qualifications": [
+                    "B.Tech"
+                ],
+                "match_reason": "Exact qualification and relevant field matched.",
+                "status": "Required qualification matched."
+            },
+            "reasons": [
+                "Missing 2 required skill(s).",
+                "Missing 4 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Exact qualification and relevant field matched.",
+                "Required qualification matched.",
+                "Semantic similarity score: 66.33%."
+            ],
+            "filename": "candidate_02.docx",
+            "rank": 4
+        },
+        {
+            "candidate_name": "Ishita Verma",
+            "email": "ishita@example.com",
+            "phone": null,
+            "final_score": 70.95,
+            "component_scores": {
+                "skills": 50.0,
+                "semantic": 69.84,
+                "experience": 100,
+                "qualification": 100
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "NumPy",
+                    "Scikit-learn"
+                ],
+                "missing_required": [
+                    "Machine Learning",
+                    "Pandas",
+                    "SQL"
+                ],
+                "matched_preferred": [
+                    "TensorFlow",
+                    "PyTorch"
+                ],
+                "missing_preferred": [
+                    "Docker",
+                    "AWS"
+                ]
+            },
+            "experience": {
+                "candidate_years": 5.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [
+                    "M.Tech (related qualification)"
+                ],
+                "score": 100,
+                "detected_qualifications": [
+                    "M.Tech"
+                ],
+                "match_reason": "Recognized qualification in a related technical field.",
+                "status": "Required qualification matched."
+            },
+            "reasons": [
+                "Missing 3 required skill(s).",
+                "Matched 2 preferred skill(s).",
+                "Missing 2 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Recognized qualification in a related technical field.",
+                "Required qualification matched.",
+                "Semantic similarity score: 69.84%."
+            ],
+            "filename": "candidate_04.docx",
+            "rank": 5
+        },
+        {
+            "candidate_name": "Diya Joshi",
+            "email": "diya@example.com",
+            "phone": null,
+            "final_score": 62.22,
+            "component_scores": {
+                "skills": 66.67,
+                "semantic": 68.49,
+                "experience": 25.0,
+                "qualification": 100
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "Machine Learning",
+                    "Pandas",
+                    "NumPy",
+                    "Scikit-learn"
+                ],
+                "missing_required": [
+                    "SQL"
+                ],
+                "matched_preferred": [],
+                "missing_preferred": [
+                    "TensorFlow",
+                    "PyTorch",
+                    "Docker",
+                    "AWS"
+                ]
+            },
+            "experience": {
+                "candidate_years": 0.5,
+                "required_years": 2.0,
+                "status": "Below the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [
+                    "B.Tech"
+                ],
+                "score": 100,
+                "detected_qualifications": [
+                    "B.Tech"
+                ],
+                "match_reason": "Exact qualification and relevant field matched.",
+                "status": "Required qualification matched."
+            },
+            "reasons": [
+                "Missing 1 required skill(s).",
+                "Missing 4 preferred skill(s).",
+                "Below the minimum experience requirement.",
+                "Exact qualification and relevant field matched.",
+                "Required qualification matched.",
+                "Semantic similarity score: 68.49%."
+            ],
+            "filename": "candidate_06.docx",
+            "rank": 6
+        },
+        {
+            "candidate_name": "Vivaan Desai",
+            "email": "vivaan@example.com",
+            "phone": null,
+            "final_score": 60.33,
+            "component_scores": {
+                "skills": 36.67,
+                "semantic": 52.19,
+                "experience": 100,
+                "qualification": 100
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "SQL"
+                ],
+                "missing_required": [
+                    "Machine Learning",
+                    "Pandas",
+                    "NumPy",
+                    "Scikit-learn"
+                ],
+                "matched_preferred": [
+                    "Docker",
+                    "AWS"
+                ],
+                "missing_preferred": [
+                    "TensorFlow",
+                    "PyTorch"
+                ]
+            },
+            "experience": {
+                "candidate_years": 4.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [
+                    "B.E. (related qualification)"
+                ],
+                "score": 100,
+                "detected_qualifications": [
+                    "B.E."
+                ],
+                "match_reason": "Recognized qualification in a related technical field.",
+                "status": "Required qualification matched."
+            },
+            "reasons": [
+                "Missing 4 required skill(s).",
+                "Matched 2 preferred skill(s).",
+                "Missing 2 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Recognized qualification in a related technical field.",
+                "Required qualification matched.",
+                "Semantic similarity score: 52.19%."
+            ],
+            "filename": "candidate_07.docx",
+            "rank": 7
+        },
+        {
+            "candidate_name": "Rohan Patel",
+            "email": "rohan@example.com",
+            "phone": null,
+            "final_score": 58.82,
+            "component_scores": {
+                "skills": 53.33,
+                "semantic": 58.29,
+                "experience": 100.0,
+                "qualification": 0
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "Pandas",
+                    "NumPy",
+                    "SQL"
+                ],
+                "missing_required": [
+                    "Machine Learning",
+                    "Scikit-learn"
+                ],
+                "matched_preferred": [],
+                "missing_preferred": [
+                    "TensorFlow",
+                    "PyTorch",
+                    "Docker",
+                    "AWS"
+                ]
+            },
+            "experience": {
+                "candidate_years": 2.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [],
+                "score": 0,
+                "detected_qualifications": [
+                    "B.Sc"
+                ],
+                "match_reason": "Required qualification or relevant field was not detected.",
+                "status": "Required qualification not detected or not matched."
+            },
+            "reasons": [
+                "Missing 2 required skill(s).",
+                "Missing 4 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Required qualification or relevant field was not detected.",
+                "Required qualification not detected or not matched.",
+                "Semantic similarity score: 58.29%."
+            ],
+            "filename": "candidate_03.docx",
+            "rank": 8
+        },
+        {
+            "candidate_name": "Aditya Rao",
+            "email": "aditya@example.com",
+            "phone": null,
+            "final_score": 50.69,
+            "component_scores": {
+                "skills": 40.0,
+                "semantic": 48.98,
+                "experience": 100,
+                "qualification": 0
+            },
+            "skills": {
+                "matched_required": [
+                    "Python",
+                    "Pandas",
+                    "SQL"
+                ],
+                "missing_required": [
+                    "Machine Learning",
+                    "NumPy",
+                    "Scikit-learn"
+                ],
+                "matched_preferred": [],
+                "missing_preferred": [
+                    "TensorFlow",
+                    "PyTorch",
+                    "Docker",
+                    "AWS"
+                ]
+            },
+            "experience": {
+                "candidate_years": 3.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [],
+                "score": 0,
+                "detected_qualifications": [],
+                "match_reason": "Required qualification or relevant field was not detected.",
+                "status": "Required qualification not detected or not matched."
+            },
+            "reasons": [
+                "Missing 3 required skill(s).",
+                "Missing 4 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Required qualification or relevant field was not detected.",
+                "Required qualification not detected or not matched.",
+                "Semantic similarity score: 48.98%."
+            ],
+            "filename": "candidate_09.docx",
+            "rank": 9
+        },
+        {
+            "candidate_name": "Sana Khan",
+            "email": "sana@example.com",
+            "phone": null,
+            "final_score": 40.38,
+            "component_scores": {
+                "skills": 13.33,
+                "semantic": 50.15,
+                "experience": 100.0,
+                "qualification": 0
+            },
+            "skills": {
+                "matched_required": [
+                    "SQL"
+                ],
+                "missing_required": [
+                    "Python",
+                    "Machine Learning",
+                    "Pandas",
+                    "NumPy",
+                    "Scikit-learn"
+                ],
+                "matched_preferred": [],
+                "missing_preferred": [
+                    "TensorFlow",
+                    "PyTorch",
+                    "Docker",
+                    "AWS"
+                ]
+            },
+            "experience": {
+                "candidate_years": 2.0,
+                "required_years": 2.0,
+                "status": "Meets the minimum experience requirement."
+            },
+            "qualifications": {
+                "matched": [],
+                "score": 0,
+                "detected_qualifications": [
+                    "BCA"
+                ],
+                "match_reason": "Required qualification or relevant field was not detected.",
+                "status": "Required qualification not detected or not matched."
+            },
+            "reasons": [
+                "Missing 5 required skill(s).",
+                "Missing 4 preferred skill(s).",
+                "Meets the minimum experience requirement.",
+                "Required qualification or relevant field was not detected.",
+                "Required qualification not detected or not matched.",
+                "Semantic similarity score: 50.15%."
+            ],
+            "filename": "candidate_10.docx",
+            "rank": 10
+        }
+    ],
+    "processing_errors": []
+}
