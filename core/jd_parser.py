@@ -1,6 +1,4 @@
-
 import re
-
 from core.text_cleaner import clean_text
 from core.skill_extractor import extract_skills
 
