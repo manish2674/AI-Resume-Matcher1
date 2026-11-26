@@ -1,4 +1,3 @@
-
 def analyze_candidate(
     jd_data: dict,
     resume_data: dict,
