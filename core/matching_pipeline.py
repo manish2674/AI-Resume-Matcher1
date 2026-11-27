@@ -1,4 +1,3 @@
-
 from core.jd_parser import parse_job_description
 from core.resume_processor import process_resume
 from core.semantic_matcher import calculate_semantic_similarity
